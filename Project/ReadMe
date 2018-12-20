@@ -1,0 +1,7 @@
+Welcome to the game of DoubleDown, where you try to complete a set of four pieces that are alike.  Players take turns making moves. On 
+each move your OPPONENT chooses the piece, then YOU get to place it on the board.  If you create a set of four alike when you place 
+your piece, then you win! A set of four alike can be completed by using four upper case characters, four lower-case characters, four
+vowels (a,e,i,o) or four consonants
+
+The game level determines which positions can be used in completing four alike pieces.  Level one checks for four alike in every row, 
+column, and diagonal.  Level two additionally checks for the pieces in the four corners as well as each cluster of four in each corner.
